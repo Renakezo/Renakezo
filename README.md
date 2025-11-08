@@ -34,7 +34,6 @@
 
 ## 📊 Статистика GitHub
 
-[![Мои основные статистики](https://github-readme-stats.vercel.app/api?username=Renakezo&show_icons=true&theme=radical)](https://github.com/Renakezo)
 [![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Renakezo&layout=compact&theme=radical)](https://github.com/Renakezo)
 
 ## 📚 Образование
