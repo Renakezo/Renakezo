@@ -33,10 +33,6 @@
 ### Инструменты:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Статистика GitHub
-
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Renakezo&layout=compact&theme=radical)](https://github.com/Renakezo)
-
 ## 📚 Образование
 
 - **УрФУ** | Программная инженерия (в процессе обучения)
